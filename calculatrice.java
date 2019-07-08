@@ -15,6 +15,7 @@ public class Calculatrice {
 		System.out.println("La somme de "+ nbre1+ " et "+ nbre2 + " est: " (nbre1+nbre2));
 		System.out.println("La différence de "+ nbre1+ " et "+ nbre2 + " est: " (nbre1-nbre2));
 		System.out.println("La multiplication de "+ nbre1+ " et "+ nbre2 + " est: " (nbre1*nbre2));
+		System.out.println("La division "+ nbre1+ " et "+ nbre2 + " est: " (nbre1/nbre2));
 	}
 	
 	
